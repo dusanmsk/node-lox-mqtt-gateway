@@ -26,7 +26,7 @@
   },
   "homepage": "https://github.com/alladdin/node-lox-mqtt-gateway#readme",
   "dependencies": {
-      "node-lox-ws-api" : ">=0.3.3",
+      "node-lox-ws-api" : ">=0.4.5-bugfix4",
       "node-lox-structure-file" : ">=0.1.5",
       "unidecode": ">=0.1.7",
       "mqtt": "=3.*.*",
